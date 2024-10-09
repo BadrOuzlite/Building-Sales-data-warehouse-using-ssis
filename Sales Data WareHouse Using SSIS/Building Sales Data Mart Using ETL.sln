@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.35026.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Building Sales Data Mart Using ETL", "Building Sales Data Mart Using ETL.dtproj", "{DAFD75FF-9F57-4050-99BF-296B0677E9FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAFD75FF-9F57-4050-99BF-296B0677E9FE}.Development|Default.ActiveCfg = Development
+		{DAFD75FF-9F57-4050-99BF-296B0677E9FE}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E16CF33-7ED4-41EE-AC64-9FA9D697B827}
+	EndGlobalSection
+EndGlobal
