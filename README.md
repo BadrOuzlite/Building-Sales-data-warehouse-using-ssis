@@ -3,11 +3,13 @@
 ## Preview:
 Using the [AdventureWorks2017](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms) dataset, I’ve developed a Sales Data Mart with SQL Server Integration Services (SSIS). This project harnesses the power of SSIS and SQL Server modeling, delivering a Data Mart that enhances data management and analytics capabilities within organizations. Its numerous benefits make it an essential asset for effective data-driven decision-making.
 
-## Technologies:
+## Tools and Technologies:
 * Visual Studio
 * SQL Server Integration Services (SSIS)
 * SQL Server Management Studio (SSMS)
-* SCD (Type 1 and Type 2)
+* Slowly Changing Dimensions (SCD) - Type 1 and Type 2
+* Power BI (IN progress)
+
   
 ### Note:
 This data mart is designed for online sales only.
