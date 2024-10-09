@@ -1,7 +1,7 @@
 # Creating a Dynamic Sales Data Warehouse with SSIS
 
-## Overview:
-By using [AdventureWorks2022](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms) Dataset I have built a Sales Data Mart using (SQL Server Integration Services SSIS) SQL Server involves leveraging the capabilities of Integration Services (SSIS) and the Modeling of SQL Server, This Data mart offers several benefits, making them valuable components in the main purpose of data management and analytics within organizations
+## Preview:
+Using the [AdventureWorks2017](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms) dataset, I’ve developed a Sales Data Mart with SQL Server Integration Services (SSIS). This project harnesses the power of SSIS and SQL Server modeling, delivering a Data Mart that enhances data management and analytics capabilities within organizations. Its numerous benefits make it an essential asset for effective data-driven decision-making.
 
 ## Technologies:
 * Visual Studio
