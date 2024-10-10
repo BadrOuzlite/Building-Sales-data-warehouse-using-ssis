@@ -60,7 +60,7 @@ I have created six packages to build this data mart
 * Fact_Sales_Full_Load 1
 * Fact_Sales_Increamental_Load
   
-![SSIS Packages](https://github.com/3amory99/Building-Sales-Data-Mart-Using-ETL-SSIS/blob/master/Output%20Images/SSIS%20Packages.PNG)
+![SSIS Packages](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/SSISPackages.png)
 
 ### Product Dim First Load:
 This is the first load for Product dimension so you see that I used Slowly Changing Dimensions (SCD) Type 1 and Type 2 as shown to you this is the first load so all of the records have been inserted to the 
