@@ -52,13 +52,14 @@ I meticulously designed a star schema that serves as the foundation of our data 
 
 
 ### SSIS Packages:
-I have created six packages to build this data mart 
+I have created seven packages to build this data mart 
 * ETL_Dim_Product
 * ETL_Dim_Customer
 * ETL_Dim_Territory
 * ETL_Dim_Date
-* Fact_Sales_Full_Load 1
+* Fact_Sales_Full_Load
 * Fact_Sales_Increamental_Load
+* Main (The entire ETL process)
   
 ![SSIS Packages](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/SSISPackages.png)
 
@@ -80,7 +81,7 @@ destination database without passing to any of the other Historization passes
 * The Customer dimension is a vital component of our data mart, and its initial load marks a significant milestone in our project. During this phase, we conducted the first-ever load of data into the Customer dimension, populating it with essential customer information.
 * As depicted in the image provided, the data seamlessly passed through the ETL (Extract, Transform, Load) processes, culminating in the successful insertion of customer records into the destination database. It's important to note that this is the inaugural load, where all records are inserted without undergoing any of the historicization or change-tracking processes SCD Type 1 and Type 2.
   
-![Customer Dim First Load](https://github.com/3amory99/Building-Sales-Data-Mart-Using-ETL-SSIS/blob/master/Output%20Images/Customer%20Dim.PNG)
+![Customer Dim First Load](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/Product_dim_firs_load.png)
 
 ### Customer Dim After Making Changes:
 
