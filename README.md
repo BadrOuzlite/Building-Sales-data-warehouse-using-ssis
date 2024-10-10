@@ -63,9 +63,8 @@ I have created seven packages to build this data mart
   
 ![SSIS Packages](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/SSISPackages.png)
 
-### Product Dim First Load:
-This is the first load for Product dimension so you see that I used Slowly Changing Dimensions (SCD) Type 1 and Type 2 as shown to you this is the first load so all of the records have been inserted to the 
-destination database without passing to any of the other Historization passes 
+### Product Dimension First Load:
+This is the initial load for the Product dimension. As you can see, I utilized Slowly Changing Dimensions (SCD) Type 1 and Type 2. Since this is the first load, all records have been inserted into the destination database without going through any of the historization processes.
 
 ![Product Dim First Load](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/Product_dim_firs_load.png)
 
