@@ -46,7 +46,7 @@ This data mart is designed for online sales only.
 ### Star Schema Design:
 I meticulously designed a star schema that serves as the foundation of our data warehouse. This schema features four dimension tables—Product, Customer, Territory, and Date—along with a central fact table that contains our key measures and surrogate keys from the dimension tables. This design ensures a robust framework for efficient data analysis and reporting, making our data warehouse well-structured and optimized for our specific analytical requirements.
 
-* I’ve also generated some SQL scripts that can assist you in creating the schema structure for the sales data warehouse: [Scripts](https://github.com/3amory99/Building-Sales-Data-Mart-Using-ETL-SSIS/tree/master/Scripts) 
+* I’ve also generated some SQL scripts that can assist you in creating the schema structure for the sales data warehouse: [Scripts](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/tree/main/Table%20Creation) 
 
 ![Sales Data Mart Star Schema](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/sales_data_warehouse_schama.png)
 
