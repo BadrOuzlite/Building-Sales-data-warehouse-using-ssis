@@ -77,13 +77,14 @@ This is the initial load for the Product dimension. As you can see, I utilized S
 
 ![Product Dimension After Changes](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/Product_dim_second_load.png)
 
+### Customer Dimension First Load:
 
-### Customer Dim First Load:
+* The Customer dimension is a crucial part of our data mart, and its initial load represents a significant milestone in our project. In this phase, we executed the first load of data into the Customer dimension, filling it with essential customer information.
 
-* The Customer dimension is a vital component of our data mart, and its initial load marks a significant milestone in our project. During this phase, we conducted the first-ever load of data into the Customer dimension, populating it with essential customer information.
-* As depicted in the image provided, the data seamlessly passed through the ETL (Extract, Transform, Load) processes, culminating in the successful insertion of customer records into the destination database. It's important to note that this is the inaugural load, where all records are inserted without undergoing any of the historicization or change-tracking processes SCD Type 1 and Type 2.
+* As shown in the accompanying image, the data smoothly transitioned through the ETL (Extract, Transform, Load) processes, leading to the successful insertion of customer records into the destination database. It’s important to highlight that this is the first load, during which all records are inserted without going through any historicization or change-tracking processes associated with SCD Type 1 and Type 2.
+
   
-![Customer Dim First Load](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/Product_dim_firs_load.png)
+![Customer Dim First Load](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/Customer_dim_First_load.png)
 
 ### Customer Dim After Making Changes:
 
