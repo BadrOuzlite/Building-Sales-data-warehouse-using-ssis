@@ -72,7 +72,7 @@ This is the initial load for the Product dimension. As you can see, I utilized S
 
 * After the initial load of our Product dimension, we focused on refining and enhancing this essential component. During this phase, we applied Slowly Changing Dimensions (SCD) techniques, specifically Type 1 and Type 2, to manage updates to the dimension data.
 * **Result:** As shown in the accompanying image, this stage represents the Product dimension after the necessary updates were implemented. It highlights our commitment to data accuracy and our capability to effectively capture changes. The revised dimension now aligns with our evolving business needs, ensuring that our data mart continues to deliver valuable insights for informed decision-making.
-* The changes apply to the database in this **[SQL SCRIPT]**(https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Table%20Creation/Operation_check_on_dim_product.sql)
+* The changes apply to the database in this **![SQL SCRIPT]**(https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Table%20Creation/Operation_check_on_dim_product.sql)
 
 
 ![Product Dimension After Changes](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/Product_dim_second_load.png)
