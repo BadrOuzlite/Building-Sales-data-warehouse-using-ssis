@@ -43,13 +43,13 @@ This data mart is designed for online sales only.
 - These phases represent the key milestones in our journey to create a Sales Data Warehouse using SSIS and SQL Server. The resulting star schema empowers my mindset with an efficient view of data access and valuable insights for informed decision-making.
 
 
-## Project Workflow:
-
 ### Star Schema Design:
-Meticulously crafted a star schema that forms the backbone of our data mart. This star schema comprises four dimension tables—Product, Customer, Territory, and Date—and a central fact table housing our key measures and surrogate keys from the dimension tables. This design provides a solid foundation for efficient data analysis and reporting, ensuring that our data mart is well-structured and optimized for our specific analytical needs.
-* I generated some SQL Scripts that may help you to create the structure schema of the sales data mart [Scripts](https://github.com/3amory99/Building-Sales-Data-Mart-Using-ETL-SSIS/tree/master/Scripts) 
+I meticulously designed a star schema that serves as the foundation of our data warehouse. This schema features four dimension tables—Product, Customer, Territory, and Date—along with a central fact table that contains our key measures and surrogate keys from the dimension tables. This design ensures a robust framework for efficient data analysis and reporting, making our data warehouse well-structured and optimized for our specific analytical requirements.
 
-![Sales Data Mart Star Schema](https://github.com/3amory99/Building-Sales-Data-Mart-Using-ETL-SSIS/blob/master/Output%20Images/Sales%20Data%20Mart%20Schema.PNG)
+* I’ve also generated some SQL scripts that can assist you in creating the schema structure for the sales data warehouse: [Scripts](https://github.com/3amory99/Building-Sales-Data-Mart-Using-ETL-SSIS/tree/master/Scripts) 
+
+![Sales Data Mart Star Schema](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/sales_data_warehouse_schama.png)
+
 
 ### SSIS Packages:
 I have created six packages to build this data mart 
