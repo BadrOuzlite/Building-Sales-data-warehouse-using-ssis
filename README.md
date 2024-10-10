@@ -91,7 +91,7 @@ This is the initial load for the Product dimension. As you can see, I utilized S
 * Building on the foundation of our Customer dimension, we initiated a phase dedicated to refining and enhancing this critical dimension. Following the initial load, we implemented adjustments and updates using data management techniques.
 * As showcased in the accompanying image, this stage portrays the Customer dimension after incorporating modifications. These enhancements may include updates to customer information, the application of Slowly Changing Dimensions (SCD) techniques, and the adoption of change-tracking mechanisms. These efforts are aimed at ensuring that our Customer dimension accurately represents the evolving landscape of our customer data.
 
-![Customer Dim After Making Changes](https://github.com/3amory99/Building-Sales-Data-Mart-Using-ETL-SSIS/blob/master/Output%20Images/Customer%20Dim%20After%20Making%20Changes.PNG)
+![Customer Dim After Making Changes](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/Customer_dim_last_load.png)
 
 ### Territory Dim Load:
 
