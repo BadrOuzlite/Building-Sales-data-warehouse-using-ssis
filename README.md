@@ -116,7 +116,7 @@ The date data is extracted from the Excel sheet, which can be accessed [here](ht
 
 ![Fact Table Incremental Load Control Flow](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/incre%20control%20flow.png)
 
-![Fact Table Incremental Load Control Flow](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/incre%20control%20flow.png)
+![Fact Table Incremental Load Control Flow](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/Increamental%20Load%20Data%20flow.png)
 
 
 
