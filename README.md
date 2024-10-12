@@ -112,13 +112,6 @@ The date data is extracted from the Excel sheet, which can be accessed [here](ht
 
 ![Fact Table Full Load Data Flow](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/Fact%20Full%20Load.png)
 
-### Fact Table Incremental Load:
-
-![Fact Table Incremental Load Control Flow](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/incre%20control%20flow.png)
-
-![Fact Table Incremental Load Control Flow](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/Increamental%20Load%20Data%20flow.png)
-
-
 
 ### Insert New 5 Records in Sources:
 
@@ -126,9 +119,9 @@ The date data is extracted from the Excel sheet, which can be accessed [here](ht
 
 ### Fact Table Incremental Load:
 
-![Increamental Load Data flow](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/incre%20control%20flow.png)
+![Fact Table Incremental Load Control Flow](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/incre%20control%20flow.png)
 
-![Increamental Load Data flow](https://github.com/3amory99/Building-Sales-Data-Mart-Using-ETL-SSIS/blob/master/Output%20Images/Increamental%20Load%20Data%20flow.PNG)
+![Fact Table Incremental Load Control Flow](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/Increamental%20Load%20Data%20flow.png)
 
 ### Check the new insertion data in the Fact Table :
 
