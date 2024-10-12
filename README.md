@@ -114,8 +114,11 @@ The date data is extracted from the Excel sheet, which can be accessed [here](ht
 
 ### Fact Table Incremental Load:
 
+![Fact Table Incremental Load Control Flow](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/incre%20control%20flow.png)
 
-![Fact Table Incremental Load Control Flow](https://github.com/3amory99/Building-Sales-Data-Mart-Using-ETL-SSIS/blob/master/Output%20Images/Fact%20Table%20Increamental%20Load%20Control%20flow.PNG)
+![Fact Table Incremental Load Control Flow](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/incre%20control%20flow.png)
+
+
 
 ### Insert New 5 Records in Sources:
 
