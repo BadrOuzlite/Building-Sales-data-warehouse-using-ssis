@@ -95,15 +95,16 @@ This is the initial load for the Product dimension. As you can see, I utilized S
 
 ### Territory Dim Load:
 
-We find that the [CountryRegionCode] in [AdventureWorks2022] database is considered to only two letters like "US", "CA", "FR" So I have created a table called dbo.lookup_country with the total name of the country like "United States" to be able to ingest data into the data mart.
+In the [AdventureWorks2017] database, we note that the [CountryRegionCode] in the [Sales].[SalesTerritory] table consists of two-letter codes such as "US," "CA," and "FR." To enhance data representation, a query was executed to join the [Sales].[SalesTerritory] table with the [Person].[CountryRegion] table, allowing us to obtain the full country names alongside their respective territory information.
 
-![Territory Dim](https://github.com/3amory99/Building-Sales-Data-Mart-Using-ETL-SSIS/blob/master/Output%20Images/Territory%20Dim.PNG)
+![Territory Dim](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/Terretory_dim.png)
+
 
 ### Date Dim Load:
 
-Extract the date data from the Excel Sheet, you can find it here [Scripts](https://github.com/3amory99/Building-Sales-Data-Mart-Using-ETL-SSIS/tree/master/Scripts) 
+The date data is extracted from the Excel sheet, which can be accessed [here](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Table%20Creation/dim_date_01_populate_table.xls).
 
-![Date Dim](https://github.com/3amory99/Building-Sales-Data-Mart-Using-ETL-SSIS/blob/master/Output%20Images/Date%20Dim.PNG)
+![Date Dim](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/date%20_dim.png)
 
 ### Fact Table Full Load:
 
