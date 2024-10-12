@@ -14,7 +14,7 @@ Using the [AdventureWorks2017](https://learn.microsoft.com/en-us/sql/samples/adv
 ### Note:
 This data mart is designed for online sales only.
 
-## Project Phases
+## Project Phase
 
 **1- Data Source Selection:**
 
@@ -108,21 +108,23 @@ The date data is extracted from the Excel sheet, which can be accessed [here](ht
 
 ### Fact Table Full Load:
 
-![Fact Table Full Load Control Flow](https://github.com/3amory99/Building-Sales-Data-Mart-Using-ETL-SSIS/blob/master/Output%20Images/Fact%20Table%20Full%20Load%20Control%20Flow.PNG)
+![Fact Table Full Load Control Flow](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/Full%20Load%20Control%20Flow.png)
 
-![Fact Table Full Load Data Flow](https://github.com/3amory99/Building-Sales-Data-Mart-Using-ETL-SSIS/blob/master/Output%20Images/Fact%20Table%20Full%20Load%20Data%20Flow.PNG)
+![Fact Table Full Load Data Flow](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/Fact%20Full%20Load.png)
 
 ### Fact Table Incremental Load:
 
-![Fact Table Incremental Load Control Flow](https://github.com/3amory99/Building-Sales-Data-Mart-Using-ETL-SSIS/blob/master/Output%20Images/Fact%20Table%20Increamental%20Load%20Control%20flow.PNG)
-
 ![Fact Table Full Load Data Flow](https://github.com/3amory99/Building-Sales-Data-Mart-Using-ETL-SSIS/blob/master/Output%20Images/Fact%20Table%20Full%20Load%20Data%20Flow.PNG)
+
+![Fact Table Incremental Load Control Flow](https://github.com/3amory99/Building-Sales-Data-Mart-Using-ETL-SSIS/blob/master/Output%20Images/Fact%20Table%20Increamental%20Load%20Control%20flow.PNG)
 
 ### Insert New 5 Records in Sources:
 
 ![Insert New 5 Records in Sources](https://github.com/3amory99/Building-Sales-Data-Mart-Using-ETL-SSIS/blob/master/Output%20Images/Insert%20New%205%20Records%20in%20Sources.PNG)
 
 ### Fact Table Incremental Load:
+
+![Increamental Load Data flow](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/incre%20control%20flow.png)
 
 ![Increamental Load Data flow](https://github.com/3amory99/Building-Sales-Data-Mart-Using-ETL-SSIS/blob/master/Output%20Images/Increamental%20Load%20Data%20flow.PNG)
 
