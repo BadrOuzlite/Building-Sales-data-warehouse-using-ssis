@@ -115,15 +115,15 @@ The date data is extracted from the Excel sheet, which can be accessed [here](ht
 
 ### Insert New 5 Records in Sources:
 
-![Insert New 5 Records in Sources](https://github.com/3amory99/Building-Sales-Data-Mart-Using-ETL-SSIS/blob/master/Output%20Images/Insert%20New%205%20Records%20in%20Sources.PNG)
+![Insert New 5 Records in Sources](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/Insertion%20Lines%20sql.png)
 
 ### Fact Table Incremental Load:
 
 ![Fact Table Incremental Load Control Flow](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/incre%20control%20flow.png)
 
-![Fact Table Incremental Load Control Flow](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/Increamental%20Load%20Data%20flow.png)
+![Fact Table Incremental Load Control Flow](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/incremental%20load%20m.png)
 
 ### Check the new insertion data in the Fact Table :
 
-![Increamental data Result](https://github.com/3amory99/Building-Sales-Data-Mart-Using-ETL-SSIS/blob/master/Output%20Images/Increamental%20Result.PNG)
+![Increamental data Result](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/showcasing%20the%20Incre%20Load.png)
 
