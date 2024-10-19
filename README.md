@@ -127,3 +127,6 @@ The date data is extracted from the Excel sheet, which can be accessed [here](ht
 
 ![Increamental data Result](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/showcasing%20the%20Incre%20Load.png)
 
+### Build Power Bi Dashboard :
+
+![Power Bi Report](https://github.com/BadrOuzlite/Building-Sales-data-warehouse-using-ssis/blob/main/Images/Power%20Bi%20report.png)
