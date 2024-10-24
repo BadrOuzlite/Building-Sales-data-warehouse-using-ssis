@@ -12,7 +12,7 @@ Using the [AdventureWorks2017](https://learn.microsoft.com/en-us/sql/samples/adv
 
   
 ### Note:
-This data mart is designed for online sales only.
+This data warehouse is designed for online sales only.
 
 ## Project Phase
 
